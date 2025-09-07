@@ -13,11 +13,7 @@ underperforming campaigns to reduce costs and improve ROI.
 and improve overall Return on Investment (ROI). 
 
 • Key Finding: Campaign 3 – SHU_Students (Australia) was identified as the least efficient campaign, with a 
-significantly higher Cost per Conversion (69.32 INR) compared to all other campaigns.
-
-• Recommendation: Based on this analysis, it is recommended to discontinue Campaign 3 to reallocate the budget 
-to more efficient and high-performing regions, specifically Nigeria and India.This strategic move is expected to 
-maximize campaign efficiency and impact. 
+significantly higher Cost per Conversion (69.32 INR) compared to all other campaigns. 
 
 ## Campaign Overview 
 • Campaign Goals: The campaign was designed to drive engagement and conversions for the "Superhero U" event. 
