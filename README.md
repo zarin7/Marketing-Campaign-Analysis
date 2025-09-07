@@ -2,7 +2,7 @@
 Cutting Costs by Halting Advertising Campaigns.
 ## Project Overview
 ## Dataset Used
-
+<a href="https://github.com/zarin7/Marketing-Campaign-Analysis/blob/main/Marketing%20Team%20Data.xlsx">View DataSet</a>
 
 ## Executive Summary    
 This one analyzes GlobalShala’s Facebook ad campaigns for the Superhero U event. The objective was to identify 
